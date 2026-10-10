@@ -1,0 +1,5 @@
+google-genai==0.3.0
+pillow==10.4.0
+python-dotenv==1.0.1
+tenacity==8.4.2
+streamlit==1.43.0
